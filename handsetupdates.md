@@ -1,5 +1,10 @@
 ## Recent Updates for Gitty
 
+### Version 1.2
+
+* Improved Sharing and Event Details interactions 
+* Bug fixes and stabilization
+
 ### Version 1.1.1
 
 #### Pull Requests
