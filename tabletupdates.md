@@ -1,3 +1,13 @@
+### Version 1.1
+
+#### Gists
+
+* Gitty now supports Gists, viewing your favorite Gists is just a tap away.
+* Share your gists.
+
+#### Commits
+* Gitty offers better support for viewing commit diffs.  No longer do you have to look at tiny boxes of rendered code, the height of each box should be match the height of the file.
+
 ### Version 1.0
 
 #### News Feeds and Notifications
