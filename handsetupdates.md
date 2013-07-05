@@ -17,6 +17,16 @@
 
 * Keep up to date with the latest changes for Gitty right inside of the app.
 
+#### Bugs
+
+* Fixed a bug where trying to enter the edit mode for adding a comment multiple times would not produce the desired result.
+* Fixed searching terms with spaces.
+* Fixed menu options for Repositories without Issues.
+
+#### Misc
+
+* Updated Russian Translation.
+
 ### Version 1.2
 
 * Improved Sharing and Event Details interactions 
