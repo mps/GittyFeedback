@@ -8,6 +8,16 @@
 #### Commits
 * Gitty offers better support for viewing commit diffs.  No longer do you have to look at tiny boxes of rendered code, the height of each box should be match the height of the file.
 
+#### Bugs
+
+* Fixed a bug where trying to enter the edit mode for adding a comment multiple times would not produce the desired result.
+* Fixed searching terms with spaces.
+* Fixed menu options for Repositories without Issues.
+
+#### Misc
+
+* Updated Russian Translation.
+
 ### Version 1.0
 
 #### News Feeds and Notifications
