@@ -1,3 +1,9 @@
+### Version 2.0
+
+* Two-Factor Authentication
+* New Trending Feature
+* UI Updates for iOS 7
+
 ### Version 1.3
 
 #### Gists
